@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="AutoImplemented and Backing Field/AutoImplemented and Backing Field.csproj" />
+  <Project Path="Partial Classes/Partial Classes.csproj" />
   <Project Path="Sealed Class/Sealed Class.csproj" />
 </Solution>

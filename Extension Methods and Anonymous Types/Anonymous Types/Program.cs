@@ -1,9 +1,5 @@
 ﻿/*
-An Anonymous Type lets you create an object — without defining 
-a class — quickly, for temporary use.
-✓ No class required
-✓ Declared with var
-✓ Properties are read-only
+An Anonymous Type lets you create an object — without defining a class — quickly, for temporary use.
 
 
 Syntax :
@@ -31,7 +27,7 @@ Why do we need anonymous type?
 2. Saves memory. 
 */
 
-// Create an anonymous object for a Mobile Phone with these companies, and print all three:
+// Create an anonymous object for a Mobile Phone with these properties, and print all three:
 // Company   ·   Model   ·   Price
 
 var Mobile = new

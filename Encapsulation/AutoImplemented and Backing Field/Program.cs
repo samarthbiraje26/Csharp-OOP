@@ -1,7 +1,7 @@
 ﻿// Encapsulation is the process of hiding the data and controlling access to it using properties or methods.
 
 
-// Backing Field
+// Backing Field - When we need validation (like age cannot be negative or bank balance cannot be negative)
 
 
 //Create an employee class with -

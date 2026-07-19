@@ -1,7 +1,5 @@
 # C# OOP
 
-# C# Object-Oriented Programming (OOP) Practice
-
 Welcome to my **C# OOP Practice Repository**!
 
 This repository contains my learning journey in **C#** and **Object-Oriented Programming (OOP)**. It includes concept-based examples, coding exercises and hands-on practice programs.

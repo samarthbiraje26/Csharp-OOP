@@ -94,12 +94,6 @@ This repository helps me:
 
 ---
 
-## Contributions
-
-This repository is primarily for my personal learning and practice. However, suggestions and improvements are always welcome.
-
----
-
 ## Connect With Me
 
 **GitHub:** https://github.com/samarthbiraje26

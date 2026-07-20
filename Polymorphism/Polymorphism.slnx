@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CompileTimePoly/CompileTimePoly.csproj" />
+  <Project Path="RunTimePoly/RunTimePoly.csproj" />
 </Solution>

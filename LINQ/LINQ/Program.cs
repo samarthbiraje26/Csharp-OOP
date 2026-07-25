@@ -23,14 +23,14 @@ class Employee
 {
     public int Id { get; set; }
     public string? Name { get; set; }
-    public string? Department { get; set;}
+    public string? Department { get; set; }
     public int Age { get; set; }
     public int Salary { get; set; }
 
 }
 class Program
 {
-    static void Main ()
+    static void Main()
     {
         List<Employee> employees = new List<Employee>()
         {
@@ -45,7 +45,7 @@ class Program
         };
 
         var result = employees.Where(e => e.Department == "IT" && e.Age > 25 && e.Salary > 60000)
-        .OrderByDescending(e => e.Salary).Select(e => new {e.Name,e.Salary});
+        .OrderByDescending(e => e.Salary).Select(e => new { e.Name, e.Salary });
 
         foreach (var emp in result)
         {

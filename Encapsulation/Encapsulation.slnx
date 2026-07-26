@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AutoImplemented and Backing Field/AutoImplemented and Backing Field.csproj" />
+  <Project Path="Base Keyword/Base Keyword.csproj" Id="19359577-6164-4b98-9e4e-2b613d1998d2" />
   <Project Path="Partial Classes/Partial Classes.csproj" />
   <Project Path="Sealed Class/Sealed Class.csproj" />
 </Solution>

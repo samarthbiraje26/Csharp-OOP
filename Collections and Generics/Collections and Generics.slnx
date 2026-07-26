@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Generic Collections/Generic Collections.csproj" />
   <Project Path="Non-Generic Collections/Non-Generic Collections.csproj" />
 </Solution>
